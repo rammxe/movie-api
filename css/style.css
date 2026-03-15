@@ -880,14 +880,6 @@ nav i:hover {
   .trailer-modal {
     align-items: center;
   }
-
-  .close-modal {
-    top: -12px;
-    right: -12px;
-    width: 30px;
-    height: 30px;
-    font-size: 20px;
-  }
 }
 
 @media (max-width: 480px) {
