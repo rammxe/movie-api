@@ -881,7 +881,7 @@ nav i:hover {
     align-items: center;
   }
 
-  .modal-content {
+  /* .modal-content {
     width: 96%;
     padding: 15px;
     border-radius: 15px;
@@ -889,7 +889,7 @@ nav i:hover {
 
   .trailer-container {
     padding-bottom: 85%;
-  }
+  } */
 
   .close-modal {
     top: -12px;
@@ -915,13 +915,5 @@ nav i:hover {
 
   nav i {
     font-size: 18px;
-  }
-
-  .modal-content {
-    width: 85%;
-  }
-
-  .trailer-container {
-    padding-bottom: 85%;
   }
 }
