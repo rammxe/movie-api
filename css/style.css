@@ -236,8 +236,7 @@ nav i:hover {
   text-align: center;
   margin: 30px auto;
   padding: 20px 0;
-  background: rgba(255, 255, 255, 0.05);
-  backdrop-filter: blur(10px);
+  background: rgba(73, 72, 82, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.1);
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   animation: slideDown 0.6s ease-out;
@@ -791,11 +790,6 @@ nav i:hover {
     background: rgba(10, 10, 30, 0.95);
   }
 
-  .menu {
-    backdrop-filter: none;
-    background: rgba(10, 10, 30, 0.9);
-  }
-
   .menu button {
     backdrop-filter: none;
     background: rgba(255, 255, 255, 0.15);
@@ -884,26 +878,25 @@ nav i:hover {
   }
 
   .trailer-modal {
-    align-items: flex-end;
-    padding-bottom: 20px;
+    align-items: center;
   }
 
   .modal-content {
-    width: 88%;
-    padding: 12px;
+    width: 92%;
+    padding: 15px;
     border-radius: 15px;
   }
 
   .trailer-container {
-    padding-bottom: 45%;
+    padding-bottom: 56.25%;
   }
 
   .close-modal {
     top: -12px;
     right: -12px;
-    width: 36px;
-    height: 36px;
-    font-size: 18px;
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
   }
 }
 
