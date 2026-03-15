@@ -888,7 +888,7 @@ nav i:hover {
   }
 
   .trailer-container {
-    padding-bottom: 72%;
+    padding-bottom: 85%;
   }
 
   .close-modal {
@@ -922,6 +922,6 @@ nav i:hover {
   }
 
   .trailer-container {
-    padding-bottom: 40%; /* 더 작은 화면에서 더 줄이기 */
+    padding-bottom: 85%;
   }
 }
